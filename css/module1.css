@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital@0;1&display=swap');
+
+p {
+    font-family: 'Mulish';
+
+}
+
 * {
     padding: 0;
     margin: 0;
@@ -38,9 +45,7 @@ nav ul li a {
     border-radius: 3px;
 }
 
-#webtechnology {
+#heading {
     text-transform: uppercase;
-    line-height: 50px;
     text-decoration-line: underline;
-    text-align: center;
 }
