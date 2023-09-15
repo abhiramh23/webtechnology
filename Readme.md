@@ -1,3 +1,4 @@
 # WEB TECHNOLOGY
 
-[My page](index.html)
+[My page](https://abhiramh23.github.io/webtechnology/)
+[code](index.html)
